@@ -1,0 +1,84 @@
+{
+  "landmarks": [
+    {
+      "name": "The King's Centre",
+      "address": "63-75 King St, Norwich NR1 1PH, United Kingdom",
+      "coordinates": {
+        "latitude": 52.6305,
+        "longitude": 1.2975
+      },
+      "description": "A premier venue for performing arts and events in Norwich.",
+      "quiz": [
+        {
+          "question": "What type of events are held at The King's Centre?",
+          "options": ["Theatre", "Concerts", "Exhibitions", "All of the above"],
+          "answer": "All of the above"
+        }
+      ]
+    },
+    {
+      "name": "Norwich Market",
+      "address": "Market Place, Norwich NR1 3TA, United Kingdom",
+      "coordinates": {
+        "latitude": 52.6300,
+        "longitude": 1.2970
+      },
+      "description": "One of the largest open-air markets in the UK, offering a variety of local produce and goods.",
+      "quiz": [
+        {
+          "question": "What is Norwich Market best known for?",
+          "options": ["Local produce", "Antiques", "Clothing", "All of the above"],
+          "answer": "All of the above"
+        }
+      ]
+    },
+    {
+      "name": "Norwich Castle",
+      "address": "Castle Meadow, Norwich NR1 3DJ, United Kingdom",
+      "coordinates": {
+        "latitude": 52.6330,
+        "longitude": 1.2970
+      },
+      "description": "A historic castle that now houses a museum and art gallery.",
+      "quiz": [
+        {
+          "question": "What can you find at Norwich Castle?",
+          "options": ["Art galleries", "Historical exhibits", "Both", "None"],
+          "answer": "Both"
+        }
+      ]
+    },
+    {
+      "name": "Norwich Cathedral",
+      "address": "St Peter's St, Norwich NR1 3BR, United Kingdom",
+      "coordinates": {
+        "latitude": 52.6310,
+        "longitude": 1.2980
+      },
+      "description": "A stunning example of medieval Gothic architecture in Norwich.",
+      "quiz": [
+        {
+          "question": "Which architectural style is Norwich Cathedral known for?",
+          "options": ["Gothic", "Baroque", "Modern", "Romanesque"],
+          "answer": "Gothic"
+        }
+      ]
+    },
+    {
+      "name": "Chapelfield Gardens",
+      "address": "St George's St, Norwich NR1 2AU, United Kingdom",
+      "coordinates": {
+        "latitude": 52.6315,
+        "longitude": 1.2975
+      },
+      "description": "A peaceful urban park located in the heart of Norwich, ideal for picnics and relaxation.",
+      "quiz": [
+        {
+          "question": "What is Chapelfield Gardens best known for?",
+          "options": ["Picnics", "Concerts", "Shopping", "Sports"],
+          "answer": "Picnics"
+        }
+      ]
+    }
+  ]
+}
