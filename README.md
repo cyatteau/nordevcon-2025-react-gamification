@@ -1,8 +1,20 @@
-# React + Vite
+# nor(DEV):Conference 2025 - React and the Art of Gamification Talk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the code and presentation materials for my talk at nor(DEV):Conference 2025. In this session, we explore how React can be leveraged alongside gamification principles to create engaging, interactive applications.
 
-Currently, two official plugins are available:
+## Slides
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- A [PDF copy](https://github.com/cyatteau/nordevcon-2025-react-gamification/blob/master/Slides-pdf.pdf) of the slides.
+
+## Requirements <a name="req"></a>
+
+- Sign up for an [ArcGIS Location Platform Account](https://location.arcgis.com/sign-up/).
+- Obtain an ArcGIS API key or Authentication token.
+
+## Setup Instructions
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/cyatteau/nordevcon-2025-react-gamification.git
+   cd nordevcon-2025-react-gamification
